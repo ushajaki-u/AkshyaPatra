@@ -1,7 +1,7 @@
 # Akshaya Patra --- Product Roadmap
 
 ![Akshaya Patra Product
-Roadmap](akshaya-patra-product-roadmap.png)
+Roadmap](AkshayaPatra_Discover_Choose_Eat_Confidently.png)
 
 **Transforming food anxiety into culinary abundance.**
 
