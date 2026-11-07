@@ -2,6 +2,16 @@
 
 > *Netflix understands movies. Spotify understands music. **Akshaya Patra understands food.***
 
+## 🍪 Live Demo
+
+**▶️ [Try the Safe Cookie Finder](https://akshyapatra-rulebased.streamlit.app/)**
+
+A rule-based allergen filter over **13,308 real USDA cookie products** — select the
+allergens you need to avoid and get safe cookie recommendations instantly. No install,
+just click.
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://akshyapatra-rulebased.streamlit.app/)
+
 ## Vision
 
 An AI-powered Food Intelligence platform helping people discover foods aligned with their dietary restrictions, preferences, and health conditions.
