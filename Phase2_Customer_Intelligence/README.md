@@ -21,6 +21,9 @@ Phase 2 has two complementary dimensions:
 
 ## 2. Customer Intelligence Roadmap
 
+Customer Intelligence Roadmap Infographic.png
+
+![Customer Intelligence Roadmap Infographic](Customer%20Intelligence%20Roadmap%20Infographic.png) 
 The Customer Intelligence roadmap is a sequential learning and product development journey. Each milestone builds on the data, understanding, and outcomes of the previous milestone.
 
 The roadmap represents planned future capabilities, not completed implementations.
