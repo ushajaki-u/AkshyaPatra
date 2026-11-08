@@ -1,6 +1,9 @@
 # Phase 2 — Customer Intelligence
 
+![Akshaya Patra Customer Intelligence](Akshaya%20Patra%20Synthetic%20Customer%20Intelligence-2.png)
+
 **Synthetic Data Generation | Rule-Based Evaluation | Hybrid Intelligence**
+
 
 ## 1. Overview
 
