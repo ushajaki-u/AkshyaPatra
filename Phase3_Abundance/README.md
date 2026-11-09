@@ -16,7 +16,9 @@ The objective of this phase is to demonstrate how product-level Food Intelligenc
 
 ## 2. MVP Workflow
 
-![Phase 3 Rule-Based Cookie Discovery Workflow](Phase3_MVP_Workflow.png)
+<p align="center">
+  <img src="./Phase3_MVP_Workflow.png" alt="Phase 3 Rule-Based Cookie Discovery Workflow" />
+</p>
 
 The application brings together two inputs:
 
@@ -121,7 +123,7 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## 8. Application Screenshots
+## 8. Application Screenshots (WIP)
 
 *Screenshots of the deployed application will be added here.*
 
