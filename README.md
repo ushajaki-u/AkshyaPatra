@@ -3,6 +3,7 @@
 > *Netflix understands movies. Spotify understands music. **Akshaya Patra understands food.***
 
 **[Try the live demo »](https://akshyapatra-rulebased.streamlit.app/)**
+Rule based MVP.
 
 ## Vision
 
