@@ -3,7 +3,10 @@
 > *Netflix understands movies. Spotify understands music. **Akshaya Patra understands food.***
 
 **[Try the live demo »](https://akshyapatra-rulebased.streamlit.app/)**
-Current MVP: Rule-Based Food Intelligence
+Current MVP: Rule-Based Food Intelligence.
+
+A deployed, rule-based MVP over 13,308 real USDA cookie products, screening 7 major allergens with hard-exclusion safety logic. Built with Python · pandas · Streamlit.
+
 ## Vision
 
 Akshaya Patra is an evolving Food Intelligence platform designed to help people discover foods that align with their dietary restrictions, preferences, and needs.
