@@ -4,7 +4,7 @@
 
 **Discover More. Choose Safely. Eat with Confidence.**
 
-[**Explore the live MVP**](https://akshyapatra-rulebased.streamlit.app/)
+[**Explore the live POC**](https://akshyapatra-rulebased.streamlit.app/)
 
 Akshaya Patra is a food intelligence product concept designed to help people with food allergies and dietary restrictions discover products that better align with their individual requirements.
 
