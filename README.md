@@ -22,6 +22,8 @@ People managing food allergies and other dietary restrictions often have to insp
 
 The architecture brings together two complementary intelligence capabilities. **Food Intelligence** describes the products; **Customer Intelligence** describes the individual or household. Both contribute to the Recommendation Engine, which evaluates product suitability and supports personalized food discovery.
 
+AK_ConceptualArchDiagram.png
+![Akshaya Patra Conceptual System Architecture](AK_ConceptualArchDiagram.png)
 
 ```mermaid
 graph TD
