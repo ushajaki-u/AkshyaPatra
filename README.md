@@ -16,9 +16,44 @@ The long-term goal is to make food discovery more informed and more practical by
 
 People managing food allergies and other dietary restrictions often have to inspect product information themselves and make decisions with incomplete or difficult-to-interpret information. Grocery platforms can show what is available and what people have purchased, but they do not necessarily understand whether a product is suitable for a particular person.
 
+![Akshaya Patra illustration](./Akshya_Patra_Chibi.png)
+
 ## Conceptual System Architecture
 
 The architecture brings together two complementary intelligence capabilities. **Food Intelligence** describes the products; **Customer Intelligence** describes the individual or household. Both contribute to the Recommendation Engine, which evaluates product suitability and supports personalized food discovery.
+
+
+```mermaid
+graph TD
+    subgraph AP ["AKSHAYA PATRA"]
+        direction TD
+        SubTitle["Conceptual System Architecture"] --- Blank[ ]
+        style Blank fill:none,stroke:none;
+        style SubTitle fill:none,stroke:none,font-weight:bold,font-size:14px;
+
+        subgraph Inputs [" "]
+            direction LR
+            FI["<b>FOOD INTELLIGENCE</b><br/><br/>Product information<br/>Ingredients<br/>Allergen information"]
+            CI["<b>CUSTOMER INTELLIGENCE</b><br/><br/>Customer profiles<br/>Restrictions and preferences<br/>Shopping history"]
+        end
+
+        RE["<b>RECOMMENDATION ENGINE</b><br/><br/>Combines food and customer intelligence to evaluate product suitability and generate recommendations."]
+        
+        FD["<b>PERSONALIZED FOOD DISCOVERY</b><br/><br/>Relevant and suitable food recommendations"]
+
+        FI --> RE
+        CI --> RE
+        RE --> FD
+    end
+
+    %% Minimalist Border & Box Styling
+    style AP fill:#fafafa,stroke:#e0e0e0,stroke-width:1px,rx:10px,color:#111111;
+    style Inputs fill:none,stroke:none;
+    style FI fill:#ffffff,stroke:#cccccc,stroke-width:1px,rx:6px;
+    style CI fill:#ffffff,stroke:#cccccc,stroke-width:1px,rx:6px;
+    style RE fill:#ffffff,stroke:#cccccc,stroke-width:1px,rx:6px;
+    style FD fill:#ffffff,stroke:#cccccc,stroke-width:1px,rx:6px;
+
 
 ```mermaid
 flowchart TB
@@ -64,21 +99,12 @@ This phase explores how customer and household profiles can represent dietary re
 
 The longer-term direction is to bring Food Intelligence and Customer Intelligence together through a Recommendation Engine and deliver personalized food discovery.
 
-## Intelligence Roadmap
-
-Customer Intelligence is being explored in stages:
-
-1. **Rule-Based Intelligence** — establish transparent, deterministic matching and decision logic.
-2. **Hybrid Intelligence** — explore how machine learning or language-based techniques could complement rule-based methods.
-3. **AI Agent-Based Intelligence** — explore agent-based capabilities as a future direction.
-
-These are exploration milestones, not claims that all three approaches are currently implemented. Safety-critical allergen exclusions remain deterministic constraints.
 
 ## Longer-Term Opportunities
 
 The broader vision may extend beyond food allergies to other dietary needs and restrictions, including celiac disease, diabetes-related dietary needs, hypertension-related dietary needs, and vegan or vegetarian preferences. These are future areas of exploration, not current MVP capabilities.
 
-![Akshaya Patra illustration](./Akshya_Patra_Chibi.png)
+
 
 ## Key Value Proposition
 
