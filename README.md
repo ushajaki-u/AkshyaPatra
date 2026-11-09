@@ -15,7 +15,6 @@ The long-term goal is to make food discovery more informed and more practical by
 <p align="center">
   <img src="./FAREConsumerJourney.png" alt="Consumer food-allergy journey" />
 </p>
-
 People managing food allergies and other dietary restrictions often have to inspect product information themselves and make decisions with incomplete or difficult-to-interpret information. Grocery platforms can show what is available and what people have purchased, but they do not necessarily understand whether a product is suitable for a particular person.
 
 ![Akshaya Patra illustration](./Akshya_Patra_Chibi.png)
