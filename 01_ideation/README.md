@@ -30,7 +30,17 @@ A weekly cycle of manual research, label-reading, and limited choices — the di
 
 ## 2. User Discovery
 
-### Personas
+### User Research
+
+Product discovery included approximately **50 qualitative interviews** with people managing food allergies, celiac disease, dietary restrictions, and related food-selection challenges. Participants included individuals from personal and university networks as well as food-allergy and celiac communities and advocacy groups.
+
+Recurring themes included difficulty discovering suitable products, interpreting ingredients and allergen terminology, repeatedly verifying labels, and the time and effort required to make confident food choices.
+
+These findings informed the **user segments, Jobs To Be Done, current-state journey, and initial POC scope** documented below.
+
+*Participant-level research data is intentionally not included in this public repository to protect privacy.*
+
+### User Segment
 
 | **Primary Users**                                              | **Dietary Needs They Bring**      |
 | -------------------------------------------------------------------- | --------------------------------------- |
@@ -41,8 +51,7 @@ A weekly cycle of manual research, label-reading, and limited choices — the di
 | Parents and caregivers                                               | Multiple needs across one household     |
 
 **Secondary users:** health-conscious shoppers; grocery retailers seeking better personalization.
-**Admins / operators / reviewers:** *(to define — who maintains the allergen dictionary, reviews flagged items)*
-**Edge-case users:** *(to define — e.g., shopping for a guest, multiple severe allergies, non-English labels)*
+
 
 ### Jobs To Be Done
 

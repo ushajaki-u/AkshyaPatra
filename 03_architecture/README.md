@@ -45,6 +45,8 @@ Sales Intelligence ─┘
 
 ---
 
+![HLD](HLD-diagram.png)
+
 # Akshaya Patra — POC Implementation
 
 ```text
